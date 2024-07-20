@@ -23,4 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashhugoel&show_icons=true&locale=en&layout=compact" alt="ashhugoel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashhugoel&show_icons=true&locale=en" alt="ashhugoel" /></p>
-<img align="left" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="ashhugoel" />
+
